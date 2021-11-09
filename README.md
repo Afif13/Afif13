@@ -10,6 +10,8 @@ I am a CSS Hacker, a computer engineer, an expert web developer, a content creat
 
 👨‍💻 An active contributor at [Stack Overflow](https://stackoverflow.com/users/8620333/temani-afif)
 
+<a href="https://stackexchange.com/users/11780569"><img src="https://stackexchange.com/users/flair/11780569.png" width="208" height="58" alt="profile for Temani Afif on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Temani Afif on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 📝 Author at [CSS Tricks](https://css-tricks.com/author/afiftemani/) and [DEV](https://dev.to/afif)
 
 🔧 I make cool stuff on [Codepen](https://codepen.io/t_afif)
