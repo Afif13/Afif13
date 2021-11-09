@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Afif13/Afif13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Temani Afif** 
 
-Here are some ideas to get you started:
+I am a CSS Hacker, a computer engineer, an expert web developer, a content creator and more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+
+The mastermind behind [CSS Challenges](https://css-challenges.com/)
+
+An active contributor at [Stack Overflow](https://stackoverflow.com/users/8620333/temani-afif)
+
+Author at [CSS Tricks](https://css-tricks.com/author/afiftemani/) and [DEV](https://dev.to/afif)
+
+I make cool stuff on [Codepen](https://codepen.io/t_afif)
+
+I share web tricks on [Twitter](https://twitter.com/ChallengesCss)
+
+I am a [Microsoft MVP](https://mvp.microsoft.com/fr-fr/PublicProfile/5004281?fullName=Temani%20Afif)
