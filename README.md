@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### I am a CSS Hacker, a computer engineer, an expert web developer, a content creator and more!
+I am a CSS Hacker, a computer engineer, an expert web developer, a content creator and more!
 
 -----
 
