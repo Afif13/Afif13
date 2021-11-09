@@ -16,4 +16,6 @@ I am a CSS Hacker, a computer engineer, an expert web developer, a content creat
 
 ✨ I share Web tricks on [Twitter](https://twitter.com/ChallengesCss)
 
+🥇 I am a [W3Schools certified](https://certification.w3schools.com/w3certified.asp?id=7368672)
+
 🏆 I am a [Microsoft MVP](https://mvp.microsoft.com/fr-fr/PublicProfile/5004281?fullName=Temani%20Afif)
