@@ -36,3 +36,11 @@ I am a CSS Hacker, a computer engineer, an expert web developer, a content creat
        
 </td>
 </tr>
+</table>   
+
+----
+     
+### Want to support me?
+
+<a href="https://www.buymeacoffee.com/afif"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" width="224" alt="Buy me a coffee"></a> <a href="https://www.patreon.com/temani"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/db3jtgy2i5l4w8slkps5.png" width="208" alt="Become a patron"></a>
+    
