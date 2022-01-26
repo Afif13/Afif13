@@ -8,7 +8,7 @@ I am a CSS Hacker, a computer engineer, an expert web developer, a content creat
 <tr >
 <td >
 
-🧠 The mastermind behind [CSS Challenges](https://css-challenges.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🧠 The mastermind behind [CSS Challenges](https://css-challenges.com/) and [CSS Generators](https://css-generators.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 👨‍💻 An active contributor at [Stack Overflow](https://stackoverflow.com/users/8620333/temani-afif)
 
