@@ -26,7 +26,7 @@ I am a CSS Hacker, a computer engineer, an expert web developer, a content creat
 </td>
 <td >
      
-<a href="https://css-challenges.com/"><img src="css-challenges.png" width="208" alt="CSS Challenges"></a>
+<a href="https://css-challenges.com/"><img src="logo-CSS.png" width="208" alt="CSS Challenges"></a>
      
 <a href="https://stackexchange.com/users/11780569"><img src="https://stackexchange.com/users/flair/11780569.png" width="208" height="58" alt="profile for Temani Afif on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Temani Afif on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
      
