@@ -12,7 +12,7 @@ I am a CSS Hacker, a computer engineer, an expert web developer, a content creat
 
 👨‍💻 An active contributor at [Stack Overflow](https://stackoverflow.com/users/8620333/temani-afif)
 
-📝 Author at [CSS Tricks](https://css-tricks.com/author/afiftemani/), [DEV](https://dev.to/afif), and [FreeCodeCamp](https://www.freecodecamp.org/news/css-only-pie-chart/)
+📝 Author at [CSS Tricks](https://css-tricks.com/author/afiftemani/), [DEV](https://dev.to/afif), and [FreeCodeCamp](https://www.freecodecamp.org/news/author/temani-afif/)
 
 🔧 I make cool stuff on [Codepen](https://codepen.io/t_afif)
 
