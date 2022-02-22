@@ -8,11 +8,13 @@ I am a CSS Hacker, a computer engineer, an expert web developer, a content creat
 <tr >
 <td >
 
-🧠 The mastermind behind [CSS Challenges](https://css-challenges.com/) and [CSS Generators](https://css-generators.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🧠 I am the mastermind behind [CSS Challenges](https://css-challenges.com/) and [CSS Generators](https://css-generators.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     
+🎨 I do [CSS Arts](https://css-only.art/)
 
-👨‍💻 An active contributor at [Stack Overflow](https://stackoverflow.com/users/8620333/temani-afif)
+👨‍💻 I am an active contributor at [Stack Overflow](https://stackoverflow.com/users/8620333/temani-afif)
 
-📝 Author at [CSS Tricks](https://css-tricks.com/author/afiftemani/), [DEV](https://dev.to/afif), and [FreeCodeCamp](https://www.freecodecamp.org/news/author/temani-afif/)
+📝 I am an Author at [CSS Tricks](https://css-tricks.com/author/afiftemani/), [DEV](https://dev.to/afif), and [FreeCodeCamp](https://www.freecodecamp.org/news/author/temani-afif/)
 
 🔧 I make cool stuff on [Codepen](https://codepen.io/t_afif)
 
