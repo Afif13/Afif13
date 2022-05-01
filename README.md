@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-I am a CSS Hacker, a computer engineer, an expert web developer, a content creator and many more!
-
------
 
 <table>
 <tr >
@@ -18,7 +15,7 @@ I am a CSS Hacker, a computer engineer, an expert web developer, a content creat
 
 🔧 I make cool stuff on [Codepen](https://codepen.io/t_afif)
 
-✨ I share Web tricks on [Twitter](https://twitter.com/ChallengesCss)
+✨ I share CSS tricks on [Twitter](https://twitter.com/ChallengesCss)
 
 🥇 I am a [W3Schools Certified](https://certification.w3schools.com/w3certified.asp?id=7368672)
 
