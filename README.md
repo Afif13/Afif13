@@ -15,7 +15,7 @@
 
 🔧 I make cool stuff on [Codepen](https://codepen.io/t_afif)
 
-✨ I share CSS tricks on [Twitter](https://twitter.com/ChallengesCss)
+✨ I share [CSS Tips on Twitter](https://css-tip.com/)
 
 🥇 I am a [W3Schools Certified](https://certification.w3schools.com/w3certified.asp?id=7368672)
 
