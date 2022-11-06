@@ -23,7 +23,7 @@
 
 🏆 I am a [Microsoft MVP](https://mvp.microsoft.com/fr-fr/PublicProfile/5004281?fullName=Temani%20Afif)
 
-     
+<a rel="me" href="https://front-end.social/@css"></a>     
 </td>
 <td >
      
