@@ -13,11 +13,11 @@
 
 🧱 I build [CSS Patterns](https://css-pattern.com/)  
      
+✨ I share [CSS Tips](https://css-tip.com/)
+     
 👨‍💻 I am an active contributor at [Stack Overflow](https://stackoverflow.com/users/8620333/temani-afif)
 
 🔧 I make cool demos on [Codepen](https://codepen.io/t_afif)
-
-✨ I share [CSS Tips on Twitter](https://css-tip.com/)
 
 🥇 I am a [W3Schools Certified](https://certification.w3schools.com/w3certified.asp?id=7368672)
 
