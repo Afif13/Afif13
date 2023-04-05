@@ -7,13 +7,13 @@
      
 📝 I write [CSS Articles](https://css-articles.com/)
      
+✨ I share [CSS Tips](https://css-tip.com/)
+     
+🧱 I build [CSS Patterns](https://css-pattern.com/)  
+     
 🎨 I do [CSS Arts](https://css-only.art/)
 
 🎮 I create [CSS Games](https://css-games.com/)
-
-🧱 I build [CSS Patterns](https://css-pattern.com/)  
-     
-✨ I share [CSS Tips](https://css-tip.com/)
      
 👨‍💻 I am an active contributor at [Stack Overflow](https://stackoverflow.com/users/8620333/temani-afif)
 
