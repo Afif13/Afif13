@@ -10,6 +10,8 @@
 ✨ I share [CSS Tips](https://css-tip.com/)
      
 🧱 I build [CSS Patterns](https://css-pattern.com/)  
+
+💫 I Make [CSS Loaders](https://css-loaders.com/)
      
 🎨 I do [CSS Arts](https://css-only.art/)
 
@@ -17,7 +19,7 @@
      
 👨‍💻 I am an active contributor at [Stack Overflow](https://stackoverflow.com/users/8620333/temani-afif)
 
-🔧 I make cool demos on [Codepen](https://codepen.io/t_afif)
+🔧 I experiement on [Codepen](https://codepen.io/t_afif)
 
 🥇 I am a [W3Schools Certified](https://certification.w3schools.com/w3certified.asp?id=7368672)
 
