@@ -18,8 +18,6 @@
 
 🔧 I experiement on [Codepen](https://codepen.io/t_afif)
 
-🥇 I am a [W3Schools Certified](https://certification.w3schools.com/w3certified.asp?id=7368672)
-
 🏆 I am a [Microsoft MVP](https://mvp.microsoft.com/fr-fr/PublicProfile/5004281?fullName=Temani%20Afif)
 
 <a rel="me" href="https://front-end.social/@css"></a>     
