@@ -1,4 +1,4 @@
-🧠 I am the mastermind behind [CSS Challenges](https://css-challenges.com/) and [CSS Generators](https://css-generators.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🧠 I am the mastermind behind [CSS Generators](https://css-generators.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      
 📝 I write [CSS Articles](https://css-articles.com/)
      
